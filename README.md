@@ -46,12 +46,12 @@ Starting agent invocation...
 Thought: The user wants to list all indices in the Elasticsearch cluster. I should use the ListIndexTool to get this information.
 
 Action:
-```
+```json
 {
   "action": "ListIndexTool",
   "action_input": {}
 }
-```
+
 Observation: All indices information:
 [
   {
