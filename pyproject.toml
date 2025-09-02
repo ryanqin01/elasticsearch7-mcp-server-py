@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "elasticSearch MCP Server"
 readme = "README.md"
 authors = [
-    { name="Ryan Qin", email="ryanqin01@gmail.com" }
+    { name="Ryan Qin" }
 ]
 requires-python = ">=3.10"
 dependencies = [
