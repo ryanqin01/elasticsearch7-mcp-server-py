@@ -1,5 +1,3 @@
-# Copyright 2025
-# Adapted for Elasticsearch 7.10
 # SPDX-License-Identifier: Apache-2.0
 
 import json
